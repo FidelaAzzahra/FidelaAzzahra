@@ -1,7 +1,8 @@
-# Halo semuanya 👋 kenalin aku Fidela Azzahra 
 
-![Banner 1](https://user-images.githubusercontent.com/114632917/225937665-abbc68ea-25c2-4617-9f47-7f21e8baccc8.png)
+![Banner 1](https://user-images.githubusercontent.com/114632917/225937665-abbc68ea-25c2-4617-9f47-7f21e8baccc8.png) 
 
+
+<h2>Halo semuanya 👋</h2> 
 
 ```text
 Bidoata Diri

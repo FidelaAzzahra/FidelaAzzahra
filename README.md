@@ -1,8 +1,7 @@
 
 ![Banner 1](https://user-images.githubusercontent.com/114632917/225937665-abbc68ea-25c2-4617-9f47-7f21e8baccc8.png) 
 
-
-<br><h3 align ="center">Halo Semuanya 👋</h3>
+<h2 align="center">Halo 👋, namaku Fidela Azzahra</h2>
 
 ```text
 Bidoata Diri

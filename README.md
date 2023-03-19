@@ -23,7 +23,7 @@ Studi Tempuh    :   Semester 4
 
 <h3 align="left">Connect yuk 😊</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ela-azzahra-09264319b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ela-azzahra-09264319b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fidela-azzahra-09264319b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ela-azzahra-09264319b" height="30" width="40" /></a>
 <a href="https://instagram.com/fidela_azzahra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fidela_azzahra" height="30" width="40" /></a>
 </p>
 

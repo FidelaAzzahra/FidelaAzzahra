@@ -2,7 +2,7 @@
 ![Banner 1](https://user-images.githubusercontent.com/114632917/225937665-abbc68ea-25c2-4617-9f47-7f21e8baccc8.png) 
 
 
-<br><h3>Halo semuanya 👋</h3> 
+<br><h3 align ="center">Halo semuanya 👋</h3> 
 
 ```text
 Bidoata Diri

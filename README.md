@@ -8,7 +8,7 @@
 Bidoata Diri
 
 Nama            :   Fidela Azzahra
-Pendidikan      :   Kuliah
+Pendidikan      :   Universitas
 Fakultas        :   Ilmu Komputer 🖥️
 Program Studi   :   Teknik Informatika 👩‍💻
 Studi Tempuh    :   Semester 4

@@ -16,7 +16,6 @@ Studi Tempuh    :   Semester 4
 <br>__Baca dulu ya..__ 
 - Bahasa pemrograman yang paling sering aku upload ke repository yaitu **JAVA**
 - Project dalam repository ku rata-rata tentang Andoid Studio yak 😄 
-- Ada yang C++ juga kok, tapi sedikti sih 🙃
 - Next aku mau belajar Python 🐍 
 
 ----------------------------------------------------------------------------------------------------

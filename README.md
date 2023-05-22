@@ -7,15 +7,16 @@
 Bidoata Diri
 
 Nama            :   Fidela Azzahra
-Pendidikan      :   Universitas
+Pendidikan      :   Universitas Dian Nuswantoro
 Fakultas        :   Ilmu Komputer 🖥️
 Program Studi   :   Teknik Informatika 👩‍💻
 Studi Tempuh    :   Semester 4
 ```
 
 <br>__Baca dulu ya..__ 
+- Termasuk portfolio pribadi 👩‍💼
 - Bahasa pemrograman yang paling sering aku upload ke repository yaitu **JAVA**
-- Project dalam repository ku rata-rata tentang Andoid Studio yak 😄 
+- Project dalam repository ku rata-rata tentang Android Studio 😄 
 - Next aku mau belajar Python 🐍 
 
 ----------------------------------------------------------------------------------------------------

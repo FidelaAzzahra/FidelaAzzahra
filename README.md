@@ -10,7 +10,7 @@ Nama            :   Fidela Azzahra
 Pendidikan      :   Universitas Dian Nuswantoro
 Fakultas        :   Ilmu Komputer 🖥️
 Program Studi   :   Teknik Informatika 👩‍💻
-Studi Tempuh    :   Semester 4
+Studi Tempuh    :   Semester 5
 ```
 
 <br>__Baca dulu ya..__ 

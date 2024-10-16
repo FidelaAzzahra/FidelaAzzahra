@@ -1,7 +1,7 @@
 
 ![Banner 1](https://user-images.githubusercontent.com/114632917/225937665-abbc68ea-25c2-4617-9f47-7f21e8baccc8.png) 
 
-<h2 align="center">Hi there, I'm Fidela Azzahra 👋</h2>
+<h2 align="center">Hi there, I'm Fidela  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h2>
 
 
 <h3 align="left">About Me</h3>
